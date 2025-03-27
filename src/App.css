@@ -40,3 +40,15 @@ input, select{
 h2{
   text-align: center;
 }
+a{
+  color: black;
+  text-decoration: none;
+  margin:10px;
+}
+a:hover{
+  cursor: pointer;
+  color: blue;
+}
+label{
+  padding:10px;
+}
