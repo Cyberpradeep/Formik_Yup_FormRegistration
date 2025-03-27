@@ -1,0 +1,42 @@
+form {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 7px 14px rgba(0, 0, 0, 0.4);
+  background: rgba(252, 226, 195, 0.801);
+  /* height:200px; */
+}
+div{
+  margin:5px;
+}
+
+label{
+  font-size:medium;
+}
+
+button {
+  background: white;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  border:none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #c5f69c;
+}
+
+.error {
+  color: red;
+} 
+
+
+input, select{
+  border-radius: 4px;
+  border: none;
+}
+h2{
+  text-align: center;
+}
